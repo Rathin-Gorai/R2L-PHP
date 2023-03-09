@@ -1,24 +1,6 @@
 p,ol{
     color: #000;
 }
-
-#next_page{
-    text-align: right;
-   background-color: green;
-    border: solid 2px green;
-    border-radius: 10%;
-    display: inline-block;
-    margin-left: 90%;
-    padding: 14px 25px;
-    color: white;
- 
-}
-
-#next_page:hover {
-    background-color: red;
-    border-color: red;
-}
-  
    
 /*!
  * Bootstrap v3.3.7 (http://getbootstrap.com)

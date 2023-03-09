@@ -65,11 +65,11 @@
 											<img src="./img/blog02.jpg" alt="">
 										</a>
 									</div>
-									<h4><a href="blogs/blog-post.php">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+									<h4><a href="blogs/blog-post.php">Computer Networks</a></h4>
 									<div class="blog-meta">
-										<span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+										<span class="blog-meta-author">By: <a href="#">Rathin Gorai</a></span>
 										<div class="pull-right">
-											<span>18 Oct, 2017</span>
+											<span>09 Mar, 2023</span>
 											<span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
 										</div>
 									</div>
@@ -85,11 +85,11 @@
 											<img src="./img/blog03.jpg" alt="">
 										</a>
 									</div>
-									<h4><a href="blogs/blog-post.php">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+									<h4><a href="blogs/blog-post.php">Internet of Things</a></h4>
 									<div class="blog-meta">
-										<span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+										<span class="blog-meta-author">By: <a href="#">Lalmohan Pal</a></span>
 										<div class="pull-right">
-											<span>18 Oct, 2017</span>
+											<span>09 Mar, 2023</span>
 											<span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
 										</div>
 									</div>
@@ -105,11 +105,31 @@
 											<img src="./img/blog04.jpg" alt="">
 										</a>
 									</div>
-									<h4><a href="blogs/blog-post.php">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+									<h4><a href="blogs/blog-post.php">Image Processing</a></h4>
 									<div class="blog-meta">
-										<span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+										<span class="blog-meta-author">By: <a href="#">Rathin Gorai</a></span>
 										<div class="pull-right">
-											<span>18 Oct, 2017</span>
+											<span>09 Mar, 2023</span>
+											<span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
+										</div>
+									</div>
+								</div>
+							</div>
+							<!-- /single blog -->
+
+														<!-- single blog -->
+														<div class="col-md-6">
+								<div class="single-blog">
+									<div class="blog-img">
+										<a href="blogs/blog-post.php">
+											<img src="./img/blog04.jpg" alt="">
+										</a>
+									</div>
+									<h4><a href="blogs/blog-post.php">Software Engineering</a></h4>
+									<div class="blog-meta">
+										<span class="blog-meta-author">By: <a href="#">Rathin Gorai</a></span>
+										<div class="pull-right">
+											<span>09 Mar, 2023</span>
 											<span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
 										</div>
 									</div>
