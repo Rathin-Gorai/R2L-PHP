@@ -41,7 +41,7 @@
 					<!-- Logo -->
 					<div class="navbar-brand">
 						<a class="logo" href="index.php">
-							<img src="./img/logo-alt.png" alt="logo">
+							<img src="./img/logo.png" alt="logo">
 						</a>
 					</div>
 					<!-- /Logo -->
