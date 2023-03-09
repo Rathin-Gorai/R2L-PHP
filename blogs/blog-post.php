@@ -81,11 +81,30 @@
 
 						<!-- /blog post -->
 
+<<<<<<< HEAD
+						<!-- pagination -->
+						<div class="col-md-12">
+								<div class="post-pagination">
+									<a href="#" class="pagination-back pull-left">Back</a>
+									<ul class="pages">
+										<li class="active">1</li>
+										<li><a href="ds_blog1_1.php">2</a></li>
+										<li><a href="#">3</a></li>
+										<li><a href="#">4</a></li>
+									</ul>
+									<a href="#" class="pagination-next pull-right">Next</a>
+								</div>
+							</div>
+							<!-- pagination -->
+=======
 						<!-- Next Butoon -->
 						<div id="next_page">
 							<a style="color: white;" href="ds_blog1.1.php">Next</a>
 						</div>
+>>>>>>> 29b7e338ce5ccb1ec03c56f282bda8ee6fc79ed3
 
+
+		
 						<!-- blog share -->
 						<div class="blog-share">
 							<h4>Share This Post:</h4>
