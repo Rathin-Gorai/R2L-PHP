@@ -81,6 +81,7 @@
 
 						<!-- /blog post -->
 
+<<<<<<< HEAD
 						<!-- pagination -->
 						<div class="col-md-12">
 								<div class="post-pagination">
@@ -95,6 +96,12 @@
 								</div>
 							</div>
 							<!-- pagination -->
+=======
+						<!-- Next Butoon -->
+						<div id="next_page">
+							<a style="color: white;" href="ds_blog1.1.php">Next</a>
+						</div>
+>>>>>>> 29b7e338ce5ccb1ec03c56f282bda8ee6fc79ed3
 
 
 		
