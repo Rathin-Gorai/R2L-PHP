@@ -41,7 +41,6 @@
 
 						<!-- blog post -->
 						<div class="blog-post">
-							<h4>What is Data Science</h4>
 							<p>Data science is the process of extracting meaningful insights and knowledge from data using various statistical, mathematical, and computational techniques. It involves collecting, cleaning, and processing large amounts of data, and then using advanced analytics and machine learning algorithms to uncover hidden patterns and insights.</p>
 
 							<p>Data science is a multidisciplinary field that encompasses various domains, including mathematics, statistics, computer science, and domain expertise. It involves using various tools and techniques such as data visualization, predictive modeling, natural language processing, and deep learning to derive insights from data.</p>
@@ -59,32 +58,9 @@
 								
 								<li><b>4.</b> Improved efficiency: Data science can help businesses optimize processes and reduce waste by analyzing data to identify inefficiencies and areas for improvement.</li><br>
 							</ol>
-
-							<h4>Impact of Data Science</h4>
-
-							<p>Data science has had a significant impact on businesses and society. Here are a few examples:</p><br>
-
-							<p><b>1.</b>Healthcare: Data science has revolutionized healthcare by enabling the analysis of large amounts of medical data to improve diagnosis, treatment, and patient outcomes.</p>
-
-							<p><b>2.</b>Finance: Data science has transformed the finance industry by enabling the analysis of large amounts of financial data to detect fraud, make investment decisions, and improve risk management.</p>
-
-							<p><b>3.</b> Marketing: Data science has revolutionized marketing by enabling businesses to analyze customer data to develop targeted marketing campaigns and personalized product recommendations</p>
-
-							<p><b>4.</b> Social Impact: Data science has the potential to impact society by enabling the analysis of large amounts of data to identify and address social issues such as poverty, climate change, and healthcare disparities.</p>
-
-							<h4>Conclusion</h4>
-
-							<p>Data science is a powerful tool that has the potential to transform businesses and society. Its ability to extract meaningful insights from data has led to new opportunities in various fields, and has enabled businesses to gain a competitive advantage by leveraging data-driven insights. As the amount of data generated continues to grow, the importance of data science will only continue to increase.</p>
 							
 						</div>
-						
-
 						<!-- /blog post -->
-
-						<!-- Next Butoon -->
-						<div id="next_page">
-							<a href="ds_blog1.1.php">Next</a>
-						</div>
 
 						<!-- blog share -->
 						<div class="blog-share">

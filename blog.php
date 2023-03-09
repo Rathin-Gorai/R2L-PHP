@@ -45,11 +45,11 @@
 											<img src="./img/blog01.jpg" alt="">
 										</a>
 									</div>
-									<h4><a href="blogs/blog-post.php">Pro eu error molestie deserunt. At per viderer bonorum persecuti.</a></h4>
+									<h4><a href="blogs/blog-post.php">Data Science</a></h4>
 									<div class="blog-meta">
-										<span class="blog-meta-author">By: <a href="#">John Doe</a></span>
+										<span class="blog-meta-author">By: <a href="#">Lalmohan pal</a></span>
 										<div class="pull-right">
-											<span>18 Oct, 2017</span>
+											<span>08 Mar, 2023</span>
 											<span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
 										</div>
 									</div>
