@@ -12,9 +12,6 @@ p,ol{
     margin-left: 90%;
     padding: 14px 25px;
 }
-#next_page,a{
-    color: white;
-}
 
 #next_page:hover {
     color: white;

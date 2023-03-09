@@ -83,7 +83,7 @@
 
 						<!-- Next Butoon -->
 						<div id="next_page">
-							<a href="ds_blog1.1.php">Next</a>
+							<a style="color: white;" href="ds_blog1.1.php">Next</a>
 						</div>
 
 						<!-- blog share -->
