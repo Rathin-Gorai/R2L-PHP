@@ -227,7 +227,7 @@ input[type="text"]:focus, input[type="email"]:focus, input[type="password"]:focu
 }
 
 .navbar-brand .logo > img {
-	max-height:2.5rem;
+	max-height:40px;
 }
 
 @media only screen and (max-width: 767px) {
