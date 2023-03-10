@@ -9,9 +9,9 @@
 									<img src="./img/avatar.png" alt="">
 								</div>
 								<div class="media-body">
-									<h4 class="media-heading">John Doe</h4>
-									<p>Cu his iudico appareat ullamcorper, at mea ignota nostrum. Nonumy argumentum id cum, eos adversarium contentiones id</p>
-									<div class="date-reply"><span>Oct 18, 2017 - 4:00AM</span><a href="#" class="reply">Reply</a></div>
+									<h4 class="media-heading">Rahul kumar</h4>
+									<p>Thank you for proving content . Tha content of your website very usefull </p>
+									<div class="date-reply"><span>Mar 11, 2023 - 4:00AM</span><a href="#" class="reply">Reply</a></div>
 								</div>
 							</div>
 							<!-- /single comment -->

@@ -30,8 +30,8 @@
 								<a class="single-post-img" href="blog-post.php">
 									<img src="./img/post01.jpg" alt="">
 								</a>
-								<a href="blog-post.php">Pro eu error molestie deserunt.</a>
-								<p><small>By : John Doe .18 Oct, 2017</small></p>
+								<a href="blog-post.php">What is Data Science</a>
+								<p><small>By : Rathin Sir .18 Oct, 2022</small></p>
 							</div>
 							<!-- /single posts -->
 
@@ -40,8 +40,8 @@
 								<a class="single-post-img" href="blog-post.php">
 									<img src="./img/post02.jpg" alt="">
 								</a>
-								<a href="blog-post.php">Pro eu error molestie deserunt.</a>
-								<p><small>By : John Doe .18 Oct, 2017</small></p>
+								<a href="blog-post.php">Using of Data Science</a>
+								<p><small>18 Oct, 2017</small></p>
 							</div>
 							<!-- /single posts -->
 
