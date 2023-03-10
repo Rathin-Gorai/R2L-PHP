@@ -39,7 +39,7 @@
 					<!-- Logo -->
 					<div class="navbar-brand">
 						<a class="logo" href="index.php">
-							<img src="./img/logo-alt.png" alt="logo">
+							<img src="./img/logo.png" alt="logo">
 						</a>
 					</div>
 					<!-- /Logo -->
@@ -56,7 +56,7 @@
 					<ul class="main-menu nav navbar-nav navbar-right">
 						<li><a href="index.php">Home</a></li>
 						<li><a href="about.php">About</a></li>
-						<li><a href="#">Courses</a></li>
+						<li><a href="courses.php">Courses</a></li>
 						<li><a href="blog.php">Blog</a></li>
 						<li><a href="contact.php">Contact</a></li>
 					</ul>

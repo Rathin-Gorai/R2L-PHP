@@ -95,6 +95,7 @@
 								</div>
 							</div>
 							<!-- pagination -->
+
 		
 						<!-- blog share -->
 						<div class="blog-share">
