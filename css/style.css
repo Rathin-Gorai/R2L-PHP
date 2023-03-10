@@ -656,7 +656,7 @@ input[type="text"]:focus, input[type="email"]:focus, input[type="password"]:focu
 }
 
 .footer-logo  .logo > img {
-	max-height:30px;
+	max-height:70px;
 }
 
 /* -- Footer Nav -- */

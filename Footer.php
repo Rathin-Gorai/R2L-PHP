@@ -11,7 +11,7 @@
 					<div class="col-md-6">
 						<div class="footer-logo">
 							<a class="logo" href="php.php">
-								<img src="./img/logo.png" alt="logo">
+								<img src="./img/logo1.png" alt="logo">
 							</a>
 						</div>
 					</div>
