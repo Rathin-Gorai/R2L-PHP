@@ -22,7 +22,7 @@
 						<ul class="footer-nav">
 							<li><a href="index.php">Home</a></li>
 							<li><a href="about.php">About</a></li>
-							<li><a href="#">Courses</a></li>
+							<li><a href="courses.php">Courses</a></li>
 							<li><a href="blog.php">Blog</a></li>
 							<li><a href="contact.php">Contact</a></li>
 						</ul>
@@ -51,7 +51,7 @@
 					<!-- copyright -->
 					<div class="col-md-8 col-md-pull-4">
 						<div class="footer-copyright">
-							<span>&copy; Copyright 2018. All Rights Reserved. | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com">Colorlib</a></span>
+							<span>&copy; Copyright 2023. All Rights Reserved. </span>
 						</div>
 					</div>
 					<!-- /copyright -->

@@ -56,7 +56,7 @@
 					<ul class="main-menu nav navbar-nav navbar-right">
 						<li><a href="index.php">Home</a></li>
 						<li><a href="about.php">About</a></li>
-						<li><a href="#">Courses</a></li>
+						<li><a href="courses.php">Courses</a></li>
 						<li><a href="blog.php">Blog</a></li>
 						<li><a href="contact.php">Contact</a></li>
 					</ul>
