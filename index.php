@@ -10,8 +10,8 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-md-8">
-							<h1 class="white-text">Engineering Gyan Free Online Courses</h1>
-							<p class="lead white-text">We work hard, so that you can understand better</p>
+							<h1 class="white-text">Engineer Gyan Free Online Courses</h1>
+							<p class="lead white-text">We work hard, so that you can understand better</p>
 							<a class="main-button icon-button" href="#courses">Get Started!</a>
 						</div>
 					</div>
@@ -32,8 +32,8 @@
 
 					<div class="col-md-6">
 						<div class="section-header">
-							<h2>Welcome to Engineering Gyan</h2>
-							<p class="lead">Thank you for choosing us! Our goal is to provide our fellow learners with-</p>
+							<h2>Welcome to Engineer Gyan</h2>
+							<p class="lead">Thank you for choosing us! Our goal is to provide our fellow learners with-</p>
 						</div>
 
 						<!-- feature -->
@@ -41,7 +41,7 @@
 							<i class="feature-icon fa fa-flask"></i>
 							<div class="feature-content">
 								<h4>Online Courses </h4>
-								<p>Online courses, Handpicked courses that are curated to level up</p>
+								<p>Online courses, Handpicked courses that are curated to level up</p>
 							</div>
 						</div>
 						<!-- /feature -->
@@ -51,7 +51,7 @@
 							<i class="feature-icon fa fa-users"></i>
 							<div class="feature-content">
 								<h4>Expert Teachers</h4>
-								<p>Expert teachers, Best guidance to make things easy for you</p>
+								<p>Expert teachers, Best guidance to make things easy for you</p>
 							</div>
 						</div>
 						<!-- /feature -->
@@ -61,7 +61,7 @@
 							<i class="feature-icon fa fa-comments"></i>
 							<div class="feature-content">
 								<h4>Community</h4>
-								<p>Community, A wide community of fellow learners that have been a part of our program</p>
+								<p>Community, A wide community of fellow learners that have been a part of our program</p>
 							</div>
 						</div>
 						<!-- /feature -->
@@ -92,7 +92,7 @@
 				<div class="row">
 					<div class="section-header text-center">
 						<h2>Explore Courses</h2>
-						<p class="lead">Here's a list of our courses that we provide</p>
+						<p class="lead">Here's a list of our courses that we provide</p>
 					</div>
 				</div>
 				<!-- /row -->
@@ -126,10 +126,10 @@
 									<img src="./img/course02.jpg" alt="">
 									<i class="course-link-icon fa fa-link"></i>
 								</a>
-								<a class="course-title" href="#">Introduction to CSS </a>
+								<a class="course-title" href="#">Programming Languages </a>
 								<div class="course-details">
-									<span class="course-category">Web Design</span>
-									<span class="course-price course-premium">Premium</span>
+									<span class="course-category">Languages</span>
+									<span class="course-price course-premium">Free</span>
 								</div>
 							</div>
 						</div>
@@ -269,8 +269,8 @@
 				<div class="row">
 
 					<div class="col-md-6">
-						<h2 class="white-text">Ceteros fuisset mei no, soleat epicurei adipiscing ne vis.</h2>
-						<p class="lead white-text">Ceteros fuisset mei no, soleat epicurei adipiscing ne vis. Et his suas veniam nominati.</p>
+						<h2 class="white-text">Our goal is to provide you with.</h2>
+						<p class="lead white-text">Read educational blog on different in-demand subjects and interact with other learners in the community.</p>
 						<a class="main-button icon-button" href="#">Get Started!</a>
 					</div>
 
@@ -292,8 +292,8 @@
 				<!-- row -->
 				<div class="row">
 					<div class="section-header text-center">
-						<h2>Why Edusite</h2>
-						<p class="lead">Libris vivendo eloquentiam ex ius, nec id splendide abhorreant.</p>
+						<h2>Why Engineer Gyan</h2>
+						<p class="lead">Our goal is to provide you with</p>
 					</div>
 
 					<!-- feature -->
@@ -302,7 +302,7 @@
 							<i class="feature-icon fa fa-flask"></i>
 							<div class="feature-content">
 								<h4>Online Courses</h4>
-								<p>Ceteros fuisset mei no, soleat epicurei adipiscing ne vis. Et his suas veniam nominati.</p>
+								<p>Online courses, Handpicked courses that are curated to level up.</p>
 							</div>
 						</div>
 					</div>
@@ -314,7 +314,7 @@
 							<i class="feature-icon fa fa-users"></i>
 							<div class="feature-content">
 								<h4>Expert Teachers</h4>
-								<p>Ceteros fuisset mei no, soleat epicurei adipiscing ne vis. Et his suas veniam nominati.</p>
+								<p>Expert teachers, Best guidance to make things easy for you.</p>
 							</div>
 						</div>
 					</div>
@@ -326,7 +326,7 @@
 							<i class="feature-icon fa fa-comments"></i>
 							<div class="feature-content">
 								<h4>Community</h4>
-								<p>Ceteros fuisset mei no, soleat epicurei adipiscing ne vis. Et his suas veniam nominati.</p>
+								<p>Community, A wide community of fellow learners that have been a part of our program.</p>
 							</div>
 						</div>
 					</div>
