@@ -76,6 +76,8 @@
 										<li><a href="ds_blog1_2.php">3</a></li>
 										<li><a href="#">4</a></li>
 									</ul> -->
+										<li><a href="ds_blog1_3.php">4</a></li>
+									</ul>
 									<a href="ds_blog1_2.php" class="pagination-next pull-right">Next</a>
 								</div>
 							</div>
