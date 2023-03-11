@@ -61,7 +61,7 @@
 							<div class="col-md-6">
 								<div class="single-blog">
 									<div class="blog-img">
-										<a href="blogs/blog-post.php">
+										<a href="blogs/CN_1.php">
 											<img src="./img/blog02.jpg" alt="">
 										</a>
 									</div>
@@ -144,7 +144,7 @@
 						<div class="row">
 
 							<!-- pagination -->
-							<div class="col-md-12">
+							<!-- <div class="col-md-12">
 								<div class="post-pagination">
 									<a href="#" class="pagination-back pull-left">Back</a>
 									<ul class="pages">
@@ -155,7 +155,7 @@
 									</ul>
 									<a href="#" class="pagination-next pull-right">Next</a>
 								</div>
-							</div>
+							</div> -->
 							<!-- pagination -->
 
 						</div>

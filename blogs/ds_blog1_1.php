@@ -1,3 +1,4 @@
+<?php $title="Using Data Science" ?>
 <?php include 'Navbar.php'; ?>
 		<!-- Hero-area -->
 		<div class="hero-area section">
@@ -11,7 +12,7 @@
 					<div class="col-md-10 col-md-offset-1 text-center">
 						<ul class="hero-area-tree">
 							<li><a href="../index.php">Home</a></li>
-							<li><a href="../blog.php">Blog</a></li>
+							<li><a href="../blog.php">Courses</a></li>
 							<li>Data Science </li>
 						</ul>
 						<h1 class="white-text">Using Data Science</h1>
@@ -68,13 +69,13 @@
 								<!-- pagination -->
 						<div class="col-md-12">
 								<div class="post-pagination">
-									<a href="blog-post.php" class="pagination-back pull-left">Back</a>
-									<ul class="pages">
+									<a onclick="history.back()" class="pagination-back pull-left">Back</a>
+									<!-- <ul class="pages">
 										<li><a href="blog-post.php">1</a></li>
 										<li class="active">2</li>
 										<li><a href="ds_blog1_2.php">3</a></li>
 										<li><a href="#">4</a></li>
-									</ul>
+									</ul> -->
 									<a href="ds_blog1_2.php" class="pagination-next pull-right">Next</a>
 								</div>
 							</div>
