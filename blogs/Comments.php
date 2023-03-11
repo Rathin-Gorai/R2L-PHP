@@ -1,6 +1,6 @@
 						<!-- blog comments -->
 						<div class="blog-comments">
-							<h3>5 Comments</h3>
+							<h3>1 Comments</h3>
 
 
 							<!-- single comment -->
