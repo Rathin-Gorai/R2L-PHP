@@ -50,9 +50,9 @@
 					<div class="col-md-5 col-md-offset-1">
 						<h4>Contact Information</h4>
 						<ul class="contact-details">
-							<li><i class="fa fa-envelope"></i>Educate@email.com</li>
-							<li><i class="fa fa-phone"></i>122-547-223-45</li>
-							<li><i class="fa fa-map-marker"></i>4476 Clement Street</li>
+							<li><i class="fa fa-envelope"></i>engineergyan07@gmail.com</li>
+							<li><i class="fa fa-phone"></i>+91 7091102502</li>
+							<li><i class="fa fa-map-marker"></i>Jamshedpur, Jharkhand</li>
 						</ul>
 
 						<!-- contact map -->
