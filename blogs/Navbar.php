@@ -4,6 +4,9 @@
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="keywords" content="data science, machine learning, data analysis, statistics, big data">
+		<meta name="description" content="Learn data science and gain insights on how to analyze and interpret complex data. Get started with our tutorials and resources today.">
+
 		<link rel="icon" href="favicon.ico">
 		 <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 
@@ -40,7 +43,7 @@
 				<div class="navbar-header">
 					<!-- Logo -->
 					<div class="navbar-brand">
-						<a class="logo" href="index.php">
+						<a class="logo" href="../index.php">
 							<img src="./img/logo.png" alt="logo">
 						</a>
 					</div>
@@ -58,7 +61,7 @@
 					<ul class="main-menu nav navbar-nav navbar-right">
 						<li><a href="../index.php">Home</a></li>
 						<li><a href="../about.php">About</a></li>
-						<li><a href="#">Courses</a></li>
+						<li><a href="../courses.php">Courses</a></li>
 						<li><a href="../blog.php">Blog</a></li>
 						<li><a href="../contact.php">Contact</a></li>
 					</ul>
