@@ -1,3 +1,4 @@
+<?php $title="Data Types for Plotting" ?>
 <?php include 'Navbar.php'; ?>
 		<!-- Hero-area -->
 		<div class="hero-area section">
@@ -71,7 +72,7 @@
 										<li><a href="ds_blog1_6.php">7</a></li>
 										<li><a href="#">8</a></li>
 									</ul> -->
-									<a href="#" class="pagination-next pull-right">Next</a>
+									<a href="ds_blog2_1.php" class="pagination-next pull-right">Next</a>
 								</div>
 							</div>
 							<!-- pagination -->
