@@ -4,6 +4,8 @@
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="keywords" content="data science, machine learning, data analysis, statistics, big data">
+		<meta name="description" content="Learn data science and gain insights on how to analyze and interpret complex data. Get started with our tutorials and resources today.">
 		<link rel="icon" href="img/favicon.png">
 		 <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 

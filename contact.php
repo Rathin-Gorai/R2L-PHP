@@ -35,12 +35,13 @@
 					<div class="col-md-6">
 						<div class="contact-form">
 							<h4>Send A Message</h4>
-							<form>
-								<input class="input" type="text" name="name" placeholder="Name">
-								<input class="input" type="email" name="email" placeholder="Email">
-								<input class="input" type="text" name="subject" placeholder="Subject">
-								<textarea class="input" name="message" placeholder="Enter your Message"></textarea>
-								<button class="main-button icon-button pull-right">Send Message</button>
+							<form action="cont.php" method="post" role="form">
+								<input class="input" type="text" name="name" placeholder="Name" required>  
+								<input class="input" type="email" name="email" placeholder="Email" required>
+								<input class="input" type="text" name="subject" placeholder="Subject" required>
+								<textarea class="input" name="message" placeholder="Enter your Message" required></textarea>
+								<button onclick="Swal.fire('Good job!','You clicked the button!','success');" class="main-button icon-button pull-right" >Send Message</button>
+								
 							</form>
 						</div>
 					</div>

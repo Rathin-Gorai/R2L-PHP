@@ -91,7 +91,10 @@
 										<li><a href="ds_blog1_1.php">2</a></li>
 										<li><a href="#">3</a></li>
 										<li><a href="#">4</a></li>
+<<<<<<< HEAD
 									</ul>
+=======
+>>>>>>> fe206389239652e91380b4b4ee70785a4fbdf7d8
 										<li><a href="ds_blog1_2.php">3</a></li>
 										<li><a href="ds_blog1_3.php">4</a></li>
 									</ul> -->
@@ -104,7 +107,7 @@
 						<!-- blog share -->
 						<div class="blog-share">
 							<h4>Share This Post:</h4>
-							<a href="#" class="facebook"><i class="fa fa-facebook"></i></a>
+							<a href="#"  class="facebook"><i class="fa fa-facebook"></i></a>
 							<a href="#" class="twitter"><i class="fa fa-twitter"></i></a>
 							<a href="#" class="google-plus"><i class="fa fa-google-plus"></i></a>
 						</div>

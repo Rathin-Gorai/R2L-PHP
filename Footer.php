@@ -74,6 +74,6 @@
 		<script type="text/javascript" src="js/jquery.min.js"></script>
 		<script type="text/javascript" src="js/bootstrap.min.js"></script>
 		<script type="text/javascript" src="js/main.js"></script>
-
+		<!-- <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script> -->
 	</body>
 </html>
