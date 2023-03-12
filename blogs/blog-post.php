@@ -91,10 +91,10 @@
 										<li><a href="ds_blog1_1.php">2</a></li>
 										<li><a href="#">3</a></li>
 										<li><a href="#">4</a></li>
-									</ul> -->
+									</ul>
 										<li><a href="ds_blog1_2.php">3</a></li>
 										<li><a href="ds_blog1_3.php">4</a></li>
-									</ul>
+									</ul> -->
 									<a href="ds_blog1_1.php" class="pagination-next pull-right">Next</a>
 								</div>
 							</div>

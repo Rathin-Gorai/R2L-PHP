@@ -69,12 +69,12 @@
 						<div class="col-md-12">
 								<div class="post-pagination">
 									<a href="ds_blog1_1.php" class="pagination-back pull-left">Back</a>
-									<ul class="pages">
+									<!-- <ul class="pages">
 										<li><a href="blog-post.php">1</a></li>
 										<li><a href="ds_blog1_1.php">2</a></li>
 										<li class="active">3</li>
 										<li><a href="ds_blog1_3.php">4</a></li>
-									</ul>
+									</ul> -->
 									<a href="ds_blog1_3.php" class="pagination-next pull-right">Next</a>
 								</div>
 							</div>
