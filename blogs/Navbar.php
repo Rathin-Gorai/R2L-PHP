@@ -1,14 +1,21 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
+		<!-- Google tag (gtag.js) -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-Y9WKQ1G0M2"></script>
+		<script>
+  		window.dataLayer = window.dataLayer || [];
+  		function gtag(){dataLayer.push(arguments);}
+  		gtag('js', new Date());
+  		gtag('config', 'G-Y9WKQ1G0M2');
+		</script>
+		<!-- Google tag (gtag.js) -->
+
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
-<<<<<<< HEAD
-=======
 		<meta name="keywords" content="data science, machine learning, data analysis, statistics, big data">
 		<meta name="description" content="Learn data science and gain insights on how to analyze and interpret complex data. Get started with our tutorials and resources today.">
->>>>>>> fe206389239652e91380b4b4ee70785a4fbdf7d8
 
 		<link rel="icon" href="favicon.ico">
 		 <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->

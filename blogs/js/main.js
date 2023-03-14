@@ -20,3 +20,8 @@ function shareToFacebook() {
 	// Open the Facebook share dialog
 	window.open('https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(url), '_blank');
   }
+
+  document.getElementById("submit").addEventListener("click", function() {
+	// history.go(-1);
+	location.reload();
+  });
