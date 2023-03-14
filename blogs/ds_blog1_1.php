@@ -75,14 +75,8 @@
 										<li class="active">2</li>
 										<li><a href="ds_blog1_2.php">3</a></li>
 										<li><a href="#">4</a></li>
-<<<<<<< HEAD
-									<</ul> -->
-										<!-- <li><a href="ds_blog1_3.php">4</a></li>
-									</ul>  -->
-=======
 										<li><a href="ds_blog1_3.php">4</a></li>
 									</ul> -->
->>>>>>> fe206389239652e91380b4b4ee70785a4fbdf7d8
 									<a href="ds_blog1_2.php" class="pagination-next pull-right">Next</a>
 								</div>
 							</div>

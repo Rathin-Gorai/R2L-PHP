@@ -19,11 +19,11 @@
 							<!-- blog reply form -->
 							<div class="blog-reply-form">
 								<h3>Leave Comment</h3>
-								<form>
+								<form action="cont.php" method="post" role="form">
 									<input class="input name-input" type="text" name="name" placeholder="Name">
 									<input class="input email-input" type="email" name="email" placeholder="Email">
 									<textarea class="input" name="message" placeholder="Enter your Message"></textarea>
-									<button class="main-button icon-button">Submit</button>
+									<button class="main-button icon-button" id ="submit">Submit</button>
 								</form>
 							</div>
 							<!-- /blog reply form -->
