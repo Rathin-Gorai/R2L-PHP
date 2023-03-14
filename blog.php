@@ -61,11 +61,11 @@
 							<div class="col-md-6">
 								<div class="single-blog">
 									<div class="blog-img">
-										<a href="blogs/CN_1.php">
+										<a href="blogs/cn-blog-post.php">
 											<img src="./img/blog02.jpg" alt="">
 										</a>
 									</div>
-									<h4><a href="blogs/blog-post.php">Computer Networks</a></h4>
+									<h4><a href="blogs/cn-blog-post.php">Computer Networks</a></h4>
 									<div class="blog-meta">
 										<span class="blog-meta-author">By: <a href="#">Rathin Gorai</a></span>
 										<div class="pull-right">
