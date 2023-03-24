@@ -1,4 +1,4 @@
-<?php $title="Data communication Components" ?>
+<?php $title=" Slotted ALOHA in Computer networking" ?>
 <?php include 'Navbar.php'; ?>
 		<!-- Hero-area -->
 		<div class="hero-area section">
@@ -13,9 +13,9 @@
 						<ul class="hero-area-tree">
 							<li><a href="../index.php">Home</a></li>
 							<li><a href="../blog.php">Courses</a></li>
-							<li>Computer Network  </li>
+							<li>Computer Network </li>
 						</ul>
-						<h1 class="white-text">Data communication Components</h1>
+						<h1 class="white-text"> Slotted ALOHA</h1>
 						<ul class="blog-post-meta">
 							<!-- <li class="blog-meta-author">By : <a href="#">Lalmohan Pal</a></li>
 							<li>08 march, 2023</li>
@@ -42,30 +42,16 @@
 
 						<!-- blog post -->
 						<div class="blog-post">
-							<h2>Data communication Components:</h2>
+							<h2> Slotted ALOHA :</h2>
 
-                            <p>Data communication components are the hardware and software that enable devices to communicate and exchange data with each other. Some common components of data communication systems include:</p>
+                            <p> Slotted ALOHA is a multiple access protocol used in computer networks to allow multiple users to share a single communication channel efficiently. It is an improvement over the Pure ALOHA protocol, which suffers from low channel utilization efficiency and high packet collision rate.</p>
 
-                            <p><b>1. Sender/Transmitter:</b> This is the device that initiates the transmission of data.</p>
+                            <p>In the Slotted ALOHA protocol, the channel is divided into discrete time slots, and users are allowed to transmit their data only at the beginning of a time slot. This ensures that all transmissions are synchronized, and the probability of collision is reduced. If two or more users transmit their data simultaneously, a collision still occurs, and both transmissions are lost. After a random time interval, each user retransmits the data until it is successfully transmitted without collision.</p>
 
-                            <p><b>2. Receiver:</b>This is the device that receives the transmitted data. </p>
+                            <p>The Slotted ALOHA protocol is simple and easy to implement, as it does not require any coordination or synchronization among the users. However, it has a lower channel utilization efficiency than other protocols, such as CSMA and TDMA, because there are unused time slots between successful transmissions. The channel utilization efficiency of Slotted ALOHA is approximately 37%, meaning that only 37% of the available channel bandwidth is used for successful data transmission.</p>
 
-                            <p><b>3. Transmission medium:</b>This is the physical channel through which data is transmitted, such as a wire, cable, fiber optic cable, or wireless channel. </p>
-
-                            <p><b>4. Protocol:</b> This is a set of rules that governs how data is transmitted and received between devices.</p>
-
-                            <p><b>5. Modem:</b> This is a device that converts digital signals to analog signals for transmission over telephone lines.</p>
-
-                            <p><b>6. Network Interface Card (NIC):</b>This is a hardware component that connects a computer or other device to a network. </p>
-
-                            <p><b>7. Switch:</b> This is a device that connects multiple devices on a network and routes data between them.</p>
-
-                            <p><b>8. Router:</b> This is a device that connects multiple networks and routes data between them.</p>
-
-                            <p><b>9. Firewall:</b> This is a software or hardware component that protects a network from unauthorized access.</p>
-
-                            <p><b>10. Gateway:</b> This is a device that connects two networks that use different protocols.</p>
-
+                            <p>Slotted ALOHA is used in various communication systems, including wireless communication, satellite communication, and computer networks. It is suitable for low data rate systems with a low number of users, where the simplicity of the protocol outweighs the lower channel utilization efficiency. </p>
+                            
 							
 						</div>
 						<!-- /blog post -->
@@ -87,7 +73,7 @@
 										<!-- <li><a href="ds_blog1_3.php">4</a></li>
 									</ul> --> 
 
-									<a href="cn-blog1-2.php" class="pagination-next pull-right">Next</a>
+									<a href="cn-blog2-8.php" class="pagination-next pull-right">Next</a>
 								</div>
 							</div>
 							<!-- pagination -->
