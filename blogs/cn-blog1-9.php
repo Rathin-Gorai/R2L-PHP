@@ -1,4 +1,4 @@
-<?php $title="Data communication Components" ?>
+<?php $title="Transmission Media" ?>
 <?php include 'Navbar.php'; ?>
 		<!-- Hero-area -->
 		<div class="hero-area section">
@@ -13,9 +13,9 @@
 						<ul class="hero-area-tree">
 							<li><a href="../index.php">Home</a></li>
 							<li><a href="../blog.php">Courses</a></li>
-							<li>Data Science </li>
+							<li>Computer Network  </li>
 						</ul>
-						<h1 class="white-text">Data communication Components</h1>
+						<h1 class="white-text">Transmission Media</h1>
 						<ul class="blog-post-meta">
 							<!-- <li class="blog-meta-author">By : <a href="#">Lalmohan Pal</a></li>
 							<li>08 march, 2023</li>
@@ -42,7 +42,25 @@
 
 						<!-- blog post -->
 						<div class="blog-post">
-							<h2>Data communication Components:</h2>
+							<h2>Transmission Media :</h2>
+
+							<p>Transmission media, also known as communication channels, are the physical pathways that transmit data from one device to another in a communication system. There are several types of transmission media used in communication systems, including:</p>
+
+							<p><b>1. Wired transmission media:</b> These are physical cables or wires that are used to transmit data. Examples include twisted-pair copper wire, coaxial cable, and optical fiber cable.</p>
+
+							<p><b>2. Wireless transmission media: </b>These are electromagnetic waves that are used to transmit data. Examples include radio waves, microwaves, and infrared waves.</p>
+
+							<h4>Some of the characteristics of transmission media that are important to consider when selecting a particular medium include:</h4>
+
+							<p><b>1. Bandwidth:</b> This refers to the amount of data that can be transmitted over a channel in a given time period. Higher bandwidth means more data can be transmitted in a shorter period of time.</p>
+
+							<p><b>2. Transmission speed: </b> This refers to the rate at which data can be transmitted over a channel, and is usually measured in bits per second (bps).</p>
+
+							<p><b>3. Distance:</b> This refers to the maximum distance that data can be transmitted over a channel before the signal degrades or attenuates.</p>
+
+							<p><b>4. Reliability: </b> This refers to the likelihood that data will be successfully transmitted over a channel without errors or interference.</p>
+
+							<p>The choice of transmission media will depend on the specific requirements of the communication system, including the distance over which data needs to be transmitted, the amount of data that needs to be transmitted, and the level of reliability required.</p>
                             
 							
 						</div>

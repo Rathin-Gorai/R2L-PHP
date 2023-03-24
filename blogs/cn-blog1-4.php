@@ -13,7 +13,7 @@
 						<ul class="hero-area-tree">
 							<li><a href="../index.php">Home</a></li>
 							<li><a href="../blog.php">Courses</a></li>
-							<li>Data Science </li>
+							<li>Computer Network  </li>
 						</ul>
 						<h1 class="white-text">Protocols and Standards</h1>
 						<ul class="blog-post-meta">
@@ -103,7 +103,7 @@
 										<!-- <li><a href="ds_blog1_3.php">4</a></li>
 									</ul> --> 
 
-									<a href="cn-blog1-6.php" class="pagination-next pull-right">Next</a>
+									<a href="cn-blog1-5.php" class="pagination-next pull-right">Next</a>
 								</div>
 							</div>
 							<!-- pagination -->

@@ -1,4 +1,4 @@
-<?php $title="Data communication Components" ?>
+<?php $title="Sliding Window in Computer networking" ?>
 <?php include 'Navbar.php'; ?>
 		<!-- Hero-area -->
 		<div class="hero-area section">
@@ -13,9 +13,9 @@
 						<ul class="hero-area-tree">
 							<li><a href="../index.php">Home</a></li>
 							<li><a href="../blog.php">Courses</a></li>
-							<li>Computer Network  </li>
+							<li>Computer Network </li>
 						</ul>
-						<h1 class="white-text">Data communication Components</h1>
+						<h1 class="white-text">Sliding Window</h1>
 						<ul class="blog-post-meta">
 							<!-- <li class="blog-meta-author">By : <a href="#">Lalmohan Pal</a></li>
 							<li>08 march, 2023</li>
@@ -42,31 +42,18 @@
 
 						<!-- blog post -->
 						<div class="blog-post">
-							<h2>Data communication Components:</h2>
+							<h2>Sliding Window :</h2>
 
-                            <p>Data communication components are the hardware and software that enable devices to communicate and exchange data with each other. Some common components of data communication systems include:</p>
+                            <p>A sliding window is a flow control mechanism used in data communication to manage the transmission of data between a sender and a receiver. It is a buffer of fixed size that allows the sender to transmit a limited number of packets to the receiver before waiting for an acknowledgment (ACK).</p>
 
-                            <p><b>1. Sender/Transmitter:</b> This is the device that initiates the transmission of data.</p>
+                            <p>The sliding window protocol works by maintaining a window of size N at both the sender and the receiver. The sender is allowed to transmit up to N packets without waiting for an ACK from the receiver. The receiver buffers the packets it receives and sends an ACK for each packet in the window as they are received.</p>
 
-                            <p><b>2. Receiver:</b>This is the device that receives the transmitted data. </p>
+                            <p>As the sender transmits new packets, the window slides forward. If the sender does not receive an ACK for a packet within a certain time period (called the timeout period), it retransmits the packet, and the window slides back to the lost packet.</p>
 
-                            <p><b>3. Transmission medium:</b>This is the physical channel through which data is transmitted, such as a wire, cable, fiber optic cable, or wireless channel. </p>
+                            <p>The sliding window protocol allows for more efficient use of the communication channel as the sender can transmit multiple packets without waiting for an ACK for each packet, leading to higher throughput. It also allows for better flow control, as the sender can adjust the window size based on the receiver's buffer capacity.</p>
 
-                            <p><b>4. Protocol:</b> This is a set of rules that governs how data is transmitted and received between devices.</p>
-
-                            <p><b>5. Modem:</b> This is a device that converts digital signals to analog signals for transmission over telephone lines.</p>
-
-                            <p><b>6. Network Interface Card (NIC):</b>This is a hardware component that connects a computer or other device to a network. </p>
-
-                            <p><b>7. Switch:</b> This is a device that connects multiple devices on a network and routes data between them.</p>
-
-                            <p><b>8. Router:</b> This is a device that connects multiple networks and routes data between them.</p>
-
-                            <p><b>9. Firewall:</b> This is a software or hardware component that protects a network from unauthorized access.</p>
-
-                            <p><b>10. Gateway:</b> This is a device that connects two networks that use different protocols.</p>
-
-							
+                            <p>There are several types of sliding window protocols, including Go-Back-N ARQ and Selective Repeat ARQ, which use automatic repeat request (ARQ) mechanisms to ensure reliable data transfer. Sliding window protocols are commonly used in modern data communication systems, including the Internet, wireless communication, and satellite communication systems.</p>
+                    							
 						</div>
 						<!-- /blog post -->
 						
@@ -87,7 +74,7 @@
 										<!-- <li><a href="ds_blog1_3.php">4</a></li>
 									</ul> --> 
 
-									<a href="cn-blog1-2.php" class="pagination-next pull-right">Next</a>
+									<a href="cn-blog2-6.php" class="pagination-next pull-right">Next</a>
 								</div>
 							</div>
 							<!-- pagination -->

@@ -47,7 +47,7 @@
 									</div>
 									<h4><a href="blogs/blog-post.php">Data Science</a></h4>
 									<div class="blog-meta">
-										<span class="blog-meta-author">By: <a href="#">Lalmohan pal</a></span>
+										<!-- <span class="blog-meta-author">By: <a href="#">Lalmohan pal</a></span> -->
 										<div class="pull-right">
 											<span>08 Mar, 2023</span>
 											<span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
@@ -67,7 +67,7 @@
 									</div>
 									<h4><a href="blogs/cn-blog-post.php">Computer Networks</a></h4>
 									<div class="blog-meta">
-										<span class="blog-meta-author">By: <a href="#">Rathin Gorai</a></span>
+										<!-- <span class="blog-meta-author">By: <a href="#">Rathin Gorai</a></span> -->
 										<div class="pull-right">
 											<span>09 Mar, 2023</span>
 											<span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
@@ -87,7 +87,7 @@
 									</div>
 									<h4><a href="blogs/blog-post.php">Internet of Things</a></h4>
 									<div class="blog-meta">
-										<span class="blog-meta-author">By: <a href="#">Lalmohan Pal</a></span>
+										<!-- <span class="blog-meta-author">By: <a href="#">Lalmohan Pal</a></span> -->
 										<div class="pull-right">
 											<span>09 Mar, 2023</span>
 											<span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
@@ -107,7 +107,7 @@
 									</div>
 									<h4><a href="blogs/blog-post.php">Image Processing</a></h4>
 									<div class="blog-meta">
-										<span class="blog-meta-author">By: <a href="#">Rathin Gorai</a></span>
+										<!-- <span class="blog-meta-author">By: <a href="#">Rathin Gorai</a></span> -->
 										<div class="pull-right">
 											<span>09 Mar, 2023</span>
 											<span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>
@@ -127,7 +127,7 @@
 									</div>
 									<h4><a href="blogs/blog-post.php">Software Engineering</a></h4>
 									<div class="blog-meta">
-										<span class="blog-meta-author">By: <a href="#">Rathin Gorai</a></span>
+										<!-- <span class="blog-meta-author">By: <a href="#">Rathin Gorai</a></span> -->
 										<div class="pull-right">
 											<span>09 Mar, 2023</span>
 											<span class="blog-meta-comments"><a href="#"><i class="fa fa-comments"></i> 35</a></span>

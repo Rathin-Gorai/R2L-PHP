@@ -1,4 +1,4 @@
-<?php $title="Data communication Components" ?>
+<?php $title="Multiplexing in Computer Network" ?>
 <?php include 'Navbar.php'; ?>
 		<!-- Hero-area -->
 		<div class="hero-area section">
@@ -13,9 +13,9 @@
 						<ul class="hero-area-tree">
 							<li><a href="../index.php">Home</a></li>
 							<li><a href="../blog.php">Courses</a></li>
-							<li>Data Science </li>
+							<li>Computer Network  </li>
 						</ul>
-						<h1 class="white-text">Data communication Components</h1>
+						<h1 class="white-text">Multiplexing in Computer Network </h1>
 						<ul class="blog-post-meta">
 							<!-- <li class="blog-meta-author">By : <a href="#">Lalmohan Pal</a></li>
 							<li>08 march, 2023</li>
@@ -42,7 +42,21 @@
 
 						<!-- blog post -->
 						<div class="blog-post">
-							<h2>Data communication Components:</h2>
+							<h2>Multiplexing :</h2>
+
+							<p>Multiplexing is the process of combining multiple data streams into a single data stream for transmission over a communication channel or medium. The purpose of multiplexing is to make more efficient use of the available bandwidth or channel capacity, allowing multiple users or devices to share the same channel.</p>
+
+							<h4>There are several types of multiplexing techniques, including:</h4>
+
+							<p><b>1. Time Division Multiplexing (TDM):</b> This technique divides the available time on a communication channel into small, fixed-length time slots. Each time slot is assigned to a different data stream, and the data from each stream is transmitted during its assigned time slot.</p>
+
+							<p><b>2. Frequency Division Multiplexing (FDM):</b>This technique divides the available frequency spectrum of a communication channel into multiple non-overlapping sub-channels. Each sub-channel is assigned to a different data stream, and the data from each stream is transmitted on its assigned sub-channel. </p>
+
+							<p><b>3. Code Division Multiplexing (CDM):</b>This technique uses codes to separate multiple data streams in the same frequency band. Each data stream is assigned a unique code, and the codes are used to encode and decode the data during transmission.</p>
+
+							<p><b>4. Wavelength Division Multiplexing (WDM): </b> This technique is used in optical fiber communication systems and it uses multiple optical wavelengths (colors) to transmit multiple data streams simultaneously over a single fiber.</p>
+
+							<p>Multiplexing is used in various applications, including telecommunication networks, cable television, satellite communication, and computer networking.</p>
                             
 							
 						</div>

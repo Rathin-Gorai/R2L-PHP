@@ -13,7 +13,7 @@
 						<ul class="hero-area-tree">
 							<li><a href="../index.php">Home</a></li>
 							<li><a href="../blog.php">Courses</a></li>
-							<li>Data Science </li>
+							<li>Computer Network  </li>
 						</ul>
 						<h1 class="white-text">Various Connection Topology</h1>
 						<ul class="blog-post-meta">

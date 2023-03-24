@@ -1,4 +1,4 @@
-<?php $title="Data communication Components" ?>
+<?php $title="Internetworking Devices" ?>
 <?php include 'Navbar.php'; ?>
 		<!-- Hero-area -->
 		<div class="hero-area section">
@@ -13,9 +13,9 @@
 						<ul class="hero-area-tree">
 							<li><a href="../index.php">Home</a></li>
 							<li><a href="../blog.php">Courses</a></li>
-							<li>Computer Network  </li>
+							<li>Computer Network </li>
 						</ul>
-						<h1 class="white-text">Data communication Components</h1>
+						<h1 class="white-text">Internetworking Devices</h1>
 						<ul class="blog-post-meta">
 							<!-- <li class="blog-meta-author">By : <a href="#">Lalmohan Pal</a></li>
 							<li>08 march, 2023</li>
@@ -42,30 +42,22 @@
 
 						<!-- blog post -->
 						<div class="blog-post">
-							<h2>Data communication Components:</h2>
+							<h2>Internetworking Devices :</h2>
 
-                            <p>Data communication components are the hardware and software that enable devices to communicate and exchange data with each other. Some common components of data communication systems include:</p>
+                            <p>Internetworking devices are hardware devices used to connect different networks and facilitate communication between them. These devices are responsible for forwarding data packets between networks and ensuring that the packets reach their intended destinations. Some common internetworking devices are: </p>
 
-                            <p><b>1. Sender/Transmitter:</b> This is the device that initiates the transmission of data.</p>
+                            <p><b>1. Router: </b>A router is a network device that connects two or more networks and forwards data packets between them. It uses logical addressing (such as IP addresses) to determine the optimal path for forwarding the packets.</p>
 
-                            <p><b>2. Receiver:</b>This is the device that receives the transmitted data. </p>
+                            <p><b>2. Switch:</b>A switch is a network device that connects devices within a local network (LAN) and forwards data packets between them. It uses MAC addresses to determine the destination of the packets and can filter and forward packets based on the destination address.</p>
 
-                            <p><b>3. Transmission medium:</b>This is the physical channel through which data is transmitted, such as a wire, cable, fiber optic cable, or wireless channel. </p>
+                            <p><b>3. Hub:</b>A hub is a simple device that connects devices within a local network and forwards data packets between them. It broadcasts all incoming packets to all devices connected to it, which can lead to network congestion and performance issues.</p>
 
-                            <p><b>4. Protocol:</b> This is a set of rules that governs how data is transmitted and received between devices.</p>
+							<p><b>4. Bridge:</b>A bridge is a network device that connects two or more LANs and forwards data packets between them. It uses MAC addresses to determine the optimal path for forwarding the packets.</p>
 
-                            <p><b>5. Modem:</b> This is a device that converts digital signals to analog signals for transmission over telephone lines.</p>
+							<p><b>5. Gateway:</b>A gateway is a device that connects two different networks that use different protocols or technologies. It can translate between different protocols and perform protocol conversion to facilitate communication between the networks.</p>
 
-                            <p><b>6. Network Interface Card (NIC):</b>This is a hardware component that connects a computer or other device to a network. </p>
-
-                            <p><b>7. Switch:</b> This is a device that connects multiple devices on a network and routes data between them.</p>
-
-                            <p><b>8. Router:</b> This is a device that connects multiple networks and routes data between them.</p>
-
-                            <p><b>9. Firewall:</b> This is a software or hardware component that protects a network from unauthorized access.</p>
-
-                            <p><b>10. Gateway:</b> This is a device that connects two networks that use different protocols.</p>
-
+							<p>These internetworking devices play a crucial role in enabling communication between devices and networks, and are essential for the functioning of the Internet and other large-scale networks.</p>
+                            
 							
 						</div>
 						<!-- /blog post -->
@@ -87,7 +79,7 @@
 										<!-- <li><a href="ds_blog1_3.php">4</a></li>
 									</ul> --> 
 
-									<a href="cn-blog1-2.php" class="pagination-next pull-right">Next</a>
+									<a href="cn-blog3-3.php" class="pagination-next pull-right">Next</a>
 								</div>
 							</div>
 							<!-- pagination -->

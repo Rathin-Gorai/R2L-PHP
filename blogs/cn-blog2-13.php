@@ -1,4 +1,4 @@
-<?php $title="Data communication Components" ?>
+<?php $title="Hamming Code in Computer networking" ?>
 <?php include 'Navbar.php'; ?>
 		<!-- Hero-area -->
 		<div class="hero-area section">
@@ -13,9 +13,9 @@
 						<ul class="hero-area-tree">
 							<li><a href="../index.php">Home</a></li>
 							<li><a href="../blog.php">Courses</a></li>
-							<li>Computer Network  </li>
+							<li>Computer Network </li>
 						</ul>
-						<h1 class="white-text">Data communication Components</h1>
+						<h1 class="white-text">Hamming Code</h1>
 						<ul class="blog-post-meta">
 							<!-- <li class="blog-meta-author">By : <a href="#">Lalmohan Pal</a></li>
 							<li>08 march, 2023</li>
@@ -42,30 +42,18 @@
 
 						<!-- blog post -->
 						<div class="blog-post">
-							<h2>Data communication Components:</h2>
+							<h2>Hamming Code :</h2>
 
-                            <p>Data communication components are the hardware and software that enable devices to communicate and exchange data with each other. Some common components of data communication systems include:</p>
+                            <p>Hamming code is a type of error-correcting code used in digital communication systems to detect and correct errors in data transmissions. It was invented by Richard Hamming in 1950 while working at Bell Labs. </p>
 
-                            <p><b>1. Sender/Transmitter:</b> This is the device that initiates the transmission of data.</p>
+                            <p>Hamming code adds extra bits to the data being transmitted, which are used to detect and correct errors that may occur during transmission. The number of extra bits added depends on the size of the data block and the level of error correction required.</p>
 
-                            <p><b>2. Receiver:</b>This is the device that receives the transmitted data. </p>
+                            <p>To create a Hamming code, the data block is divided into segments of bits, each segment containing a certain number of data bits and a certain number of check bits. The check bits are calculated based on the data bits using a mathematical formula.</p>
 
-                            <p><b>3. Transmission medium:</b>This is the physical channel through which data is transmitted, such as a wire, cable, fiber optic cable, or wireless channel. </p>
+                            <p>When the data is transmitted, the receiver calculates the check bits again and compares them with the check bits sent by the transmitter. If the check bits do not match, the receiver knows that an error has occurred and can use the check bits to correct the error.</p>
 
-                            <p><b>4. Protocol:</b> This is a set of rules that governs how data is transmitted and received between devices.</p>
-
-                            <p><b>5. Modem:</b> This is a device that converts digital signals to analog signals for transmission over telephone lines.</p>
-
-                            <p><b>6. Network Interface Card (NIC):</b>This is a hardware component that connects a computer or other device to a network. </p>
-
-                            <p><b>7. Switch:</b> This is a device that connects multiple devices on a network and routes data between them.</p>
-
-                            <p><b>8. Router:</b> This is a device that connects multiple networks and routes data between them.</p>
-
-                            <p><b>9. Firewall:</b> This is a software or hardware component that protects a network from unauthorized access.</p>
-
-                            <p><b>10. Gateway:</b> This is a device that connects two networks that use different protocols.</p>
-
+                            <p>Hamming code is a powerful error-correction technique that can correct single-bit errors and detect double-bit errors. It is commonly used in computer memory systems, as well as in wireless communication systems such as Wi-Fi and Bluetooth.</p>
+                            
 							
 						</div>
 						<!-- /blog post -->
@@ -87,7 +75,7 @@
 										<!-- <li><a href="ds_blog1_3.php">4</a></li>
 									</ul> --> 
 
-									<a href="cn-blog1-2.php" class="pagination-next pull-right">Next</a>
+									<a href="cn-blog3-1.php" class="pagination-next pull-right">Next</a>
 								</div>
 							</div>
 							<!-- pagination -->
