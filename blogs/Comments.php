@@ -1,10 +1,10 @@
 						<!-- blog comments -->
 						<div class="blog-comments">
-							<h3>1 Comments</h3>
+							<!-- <h3>1 Comments</h3> -->
 
 
 							<!-- single comment -->
-							<div class="media">
+							<!-- <div class="media">
 								<div class="media-left">
 									<img src="./img/avatar.png" alt="">
 								</div>
@@ -13,7 +13,7 @@
 									<p>Thank you for proving content . Tha content of your website very usefull </p>
 									<div class="date-reply"><span>Mar 11, 2023 - 4:00AM</span><a href="#" class="reply">Reply</a></div>
 								</div>
-							</div>
+							</div> -->
 							<!-- /single comment -->
 
 							<!-- blog reply form -->
