@@ -81,11 +81,11 @@
 							<div class="col-md-6">
 								<div class="single-blog">
 									<div class="blog-img">
-										<a href="blogs/blog-post.php">
+										<a href="blogs/iot-blog1-1.php">
 											<img src="./img/blog03.jpg" alt="">
 										</a>
 									</div>
-									<h4><a href="blogs/blog-post.php">Internet of Things</a></h4>
+									<h4><a href="blogs/iot-blog1-1.php">Internet of Things</a></h4>
 									<div class="blog-meta">
 										<!-- <span class="blog-meta-author">By: <a href="#">Lalmohan Pal</a></span> -->
 										<div class="pull-right">
